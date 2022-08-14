@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @crobertson247
+- 👀 I’m interested in software devlopment
+- 🌱 I’m currently learning java, python and html
